@@ -1,0 +1,5 @@
+E:\MyGitHubCenter\Ovjust.BaiduMap\Ovjust.BaiduMap\bin\Ovjust.BaiduMap.dll
+E:\MyGitHubCenter\Ovjust.BaiduMap\Ovjust.BaiduMap\bin\Ovjust.BaiduMap.pdb
+E:\MyGitHubCenter\Ovjust.BaiduMap\Ovjust.BaiduMap\obj\Debug\Ovjust.BaiduMap.csprojResolveAssemblyReference.cache
+E:\MyGitHubCenter\Ovjust.BaiduMap\Ovjust.BaiduMap\obj\Debug\Ovjust.BaiduMap.dll
+E:\MyGitHubCenter\Ovjust.BaiduMap\Ovjust.BaiduMap\obj\Debug\Ovjust.BaiduMap.pdb
